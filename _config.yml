@@ -1,6 +1,6 @@
 name: BeerIsMyChurch
 favicon: null
-layout_spectrum: 0.6918922618497163
+layout_spectrum: 0.99679
 typography_spectrum: 0.7594259874895215
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.9772276212461293
+  brandStrength: 0.5
   lightness: 0.9277256594505161
-  saturation: 0.48387597408145666
+  saturation: 1
   rhythmicContrast: 0.04185569495894015
 purpose: []
