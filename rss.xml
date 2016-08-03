@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BeerIsMyChurch]]></title>
         <description><![CDATA[BeerIsMyChurch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beerismychurch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 19:18:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 13:11:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beerismychurch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19b18c77-e607-4682-8d61-09f9690aac85.jpg">]]></description>
+            <link>https://thegrid.ai/beerismychurch/5e208795-3b5f-4e8a-b24e-fa396a2e80a9/index.html</link>
+            <guid isPermaLink="false">5e208795-3b5f-4e8a-b24e-fa396a2e80a9</guid>
+            <pubDate>Wed, 03 Aug 2016 13:11:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4155bb4-c2e6-44e0-920a-03cc65ec8842.png">]]></description>
-            <link>undefined2ec2e5bb-fa95-47d4-899d-452959ccea28/index.html</link>
+            <link>https://thegrid.ai/beerismychurch/2ec2e5bb-fa95-47d4-899d-452959ccea28/index.html</link>
             <guid isPermaLink="false">2ec2e5bb-fa95-47d4-899d-452959ccea28</guid>
             <pubDate>Thu, 10 Dec 2015 19:18:53 GMT</pubDate>
         </item>
